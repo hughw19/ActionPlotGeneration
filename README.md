@@ -3,7 +3,7 @@ This is an tensorflow implementation of Action Plot RNN in the Eurographics 2019
 
 The repository includes:
 
-Source code of Action Plot RNN.
-Training code
-Pre-trained weights
-Sampling code for generating action plots
+* Source code of Action Plot RNN.
+* Training code
+* Pre-trained weights
+* Sampling code for generating action plots
