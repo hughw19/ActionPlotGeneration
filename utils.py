@@ -586,7 +586,7 @@ class DataLoaderwithVocab():
 
 
 
-class DataLoaderForErsin():
+class DataLoaderForInfer():
     def __init__(self, args, data_dir):
 
         self.input_file_list = glob.glob(os.path.join(data_dir, "*.unused"))

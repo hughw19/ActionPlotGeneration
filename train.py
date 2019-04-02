@@ -7,15 +7,15 @@ import time, string
 import os
 from six.moves import cPickle
 
-from utils_cup_multivideos import DataLoader
-from model_cup_multivideos_gru_times import Model
-from utils_cup_multivideos import DataLoaderForErsin as DataLoaderForInfer
+from utils import DataLoader
+from model import Model
+from utils import DataLoaderForInfer
 
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument('--data_dir', type=str, default='data/all_multivideos',
                        help='data directory containing input csv files')
-    parser.add_argument('--save_dir', type=str, default='save',
+    parser.add_argument('--save_dir', type=str, default='ckpts/',
                        help='directory to store checkpointed models')
     parser.add_argument('--rnn_size', type=int, default=16,
                        help='size of RNN hidden state')

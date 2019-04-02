@@ -6,12 +6,12 @@ import time, cv2, copy
 import os, string,json
 
 from six.moves import cPickle
-from utils_cup_multivideos import EventtoReadable
-from model_cup_multivideos_gru_times import Model
+from utils import EventtoReadable
+from model import Model
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument('--save_dir', type=str, default='save/all_multivideos_r16_s10_b1_gru_multitimes/',
+    parser.add_argument('--save_dir', type=str, default='ckpts/',
                        help='model directory to store checkpointed models')
     parser.add_argument('--prime_length', type=int, default=5,
                        help='how many frames to use for prime')
