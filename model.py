@@ -13,7 +13,12 @@ class Model():
             args.seq_length = 1
 
         # specify the structure of the RNN cell
-        cell      = tf.nn.rnn_cell.GRUCell(args.rnn_size)
+        if args.model == "gru":
+            cell = tf.nn.rnn_cell.GRUCell(args.rnn_size)
+        elif args.model == "lstm":
+            cell = tf.nn.rnn_cell.LSTMCell(args.rnn_size)
+        else:
+            cell = tf.nn.rnn_cell.BasicRNNCell(args.rnn_size)
         cell      = tf.nn.rnn_cell.MultiRNNCell([cell] * args.num_layers)
         self.cell = cell
         
