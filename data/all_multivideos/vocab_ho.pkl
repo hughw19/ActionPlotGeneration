@@ -1,0 +1,12 @@
+(S'unoccupied;1'
+p1
+S'unoccupied;N/A'
+p2
+S'unoccupied;0'
+p3
+S'unoccupied;4'
+p4
+S'unoccupied;2'
+p5
+tp6
+.

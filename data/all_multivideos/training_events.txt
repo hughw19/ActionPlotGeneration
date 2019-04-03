@@ -1,0 +1,582 @@
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move hand]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move bottle]    hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [open book]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [open book]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [open book]      hand: [unoccupied] 
+new event: action: [idle]           hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.

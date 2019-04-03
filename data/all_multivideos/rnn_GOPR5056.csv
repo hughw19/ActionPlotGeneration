@@ -1,0 +1,1091 @@
+frame_num,action_label,hand_state,obj_state
+0,idle,unoccupied,N/A
+1,idle,unoccupied,N/A
+2,idle,unoccupied,N/A
+3,idle,unoccupied,N/A
+4,idle,unoccupied,N/A
+5,idle,unoccupied,N/A
+6,idle,unoccupied,N/A
+7,idle,unoccupied,N/A
+8,idle,unoccupied,N/A
+9,idle,unoccupied,N/A
+10,idle,unoccupied,N/A
+11,idle,unoccupied,N/A
+12,idle,unoccupied,N/A
+13,idle,unoccupied,N/A
+14,idle,unoccupied,N/A
+15,idle,unoccupied,N/A
+16,idle,unoccupied,N/A
+17,idle,unoccupied,N/A
+18,idle,unoccupied,N/A
+19,idle,unoccupied,N/A
+20,idle,unoccupied,N/A
+21,idle,unoccupied,N/A
+22,idle,unoccupied,N/A
+23,idle,unoccupied,N/A
+24,idle,unoccupied,N/A
+25,idle,unoccupied,N/A
+26,idle,unoccupied,N/A
+27,idle,unoccupied,N/A
+28,idle,unoccupied,N/A
+29,idle,unoccupied,N/A
+30,idle,unoccupied,N/A
+31,idle,unoccupied,N/A
+32,idle,unoccupied,N/A
+33,idle,unoccupied,N/A
+34,idle,unoccupied,N/A
+35,idle,unoccupied,N/A
+36,idle,unoccupied,N/A
+37,idle,unoccupied,N/A
+38,idle,unoccupied,N/A
+39,idle,unoccupied,N/A
+40,idle,unoccupied,N/A
+41,idle,unoccupied,N/A
+42,idle,unoccupied,N/A
+43,idle,unoccupied,N/A
+44,idle,unoccupied,N/A
+45,idle,unoccupied,N/A
+46,idle,unoccupied,N/A
+47,idle,unoccupied,N/A
+48,idle,unoccupied,N/A
+49,idle,unoccupied,N/A
+50,idle,unoccupied,N/A
+51,idle,unoccupied,N/A
+52,idle,unoccupied,N/A
+53,idle,unoccupied,N/A
+54,idle,unoccupied,N/A
+55,idle,unoccupied,N/A
+56,idle,unoccupied,N/A
+57,idle,unoccupied,N/A
+58,idle,unoccupied,N/A
+59,idle,unoccupied,N/A
+60,idle,unoccupied,N/A
+61,idle,unoccupied,N/A
+62,idle,unoccupied,N/A
+63,idle,unoccupied,N/A
+64,idle,unoccupied,N/A
+65,move hand,unoccupied,N/A
+66,move hand,unoccupied,N/A
+67,move hand,unoccupied,N/A
+68,move hand,unoccupied,N/A
+69,move hand,unoccupied,N/A
+70,move hand,unoccupied,N/A
+71,move hand,unoccupied,N/A
+72,move hand,unoccupied,N/A
+73,move hand,unoccupied,N/A
+74,move hand,unoccupied,N/A
+75,move hand,unoccupied,N/A
+76,move hand,unoccupied,N/A
+77,move hand,unoccupied,N/A
+78,move hand,unoccupied,N/A
+79,move hand,unoccupied,N/A
+80,move hand,unoccupied,N/A
+81,move hand,unoccupied,N/A
+82,move hand,unoccupied,N/A
+83,move hand,unoccupied,N/A
+84,move hand,unoccupied,N/A
+85,move hand,unoccupied,N/A
+86,move hand,unoccupied,N/A
+87,move hand,unoccupied,N/A
+88,move hand,unoccupied,N/A
+89,move hand,unoccupied,N/A
+90,move hand,unoccupied,N/A
+91,move hand,unoccupied,N/A
+92,move hand,unoccupied,N/A
+93,move hand,unoccupied,N/A
+94,move hand,unoccupied,N/A
+95,move hand,unoccupied,N/A
+96,move hand,unoccupied,N/A
+97,move hand,unoccupied,N/A
+98,move hand,unoccupied,N/A
+99,move hand,unoccupied,N/A
+100,move book,unoccupied,0
+101,move book,unoccupied,0
+102,move book,unoccupied,0
+103,move book,unoccupied,0
+104,move book,unoccupied,0
+105,move book,unoccupied,0
+106,move book,unoccupied,0
+107,move book,unoccupied,0
+108,move book,unoccupied,0
+109,move book,unoccupied,0
+110,move book,unoccupied,0
+111,move book,unoccupied,0
+112,move book,unoccupied,0
+113,move book,unoccupied,0
+114,move book,unoccupied,0
+115,move book,unoccupied,0
+116,move book,unoccupied,0
+117,move book,unoccupied,0
+118,move book,unoccupied,0
+119,move book,unoccupied,0
+120,move book,unoccupied,0
+121,move book,unoccupied,0
+122,move book,unoccupied,0
+123,move book,unoccupied,0
+124,move book,unoccupied,0
+125,move book,unoccupied,0
+126,move book,unoccupied,0
+127,move book,unoccupied,0
+128,move book,unoccupied,0
+129,move book,unoccupied,0
+130,move book,unoccupied,0
+131,move book,unoccupied,0
+132,move book,unoccupied,0
+133,move book,unoccupied,0
+134,move book,unoccupied,0
+135,move book,unoccupied,0
+136,move book,unoccupied,0
+137,move book,unoccupied,0
+138,move book,unoccupied,0
+139,move book,unoccupied,0
+140,move book,unoccupied,0
+141,move book,unoccupied,0
+142,move book,unoccupied,0
+143,move book,unoccupied,0
+144,move book,unoccupied,0
+145,move book,unoccupied,0
+146,move book,unoccupied,0
+147,move book,unoccupied,0
+148,move book,unoccupied,0
+149,move book,unoccupied,0
+150,move book,unoccupied,0
+151,move book,unoccupied,0
+152,move book,unoccupied,0
+153,move book,unoccupied,0
+154,move book,unoccupied,0
+155,move book,unoccupied,0
+156,move book,unoccupied,0
+157,move book,unoccupied,0
+158,move book,unoccupied,0
+159,move book,unoccupied,0
+160,move book,unoccupied,0
+161,move book,unoccupied,0
+162,move book,unoccupied,0
+163,move book,unoccupied,0
+164,move book,unoccupied,0
+165,move book,unoccupied,0
+166,move book,unoccupied,0
+167,move book,unoccupied,0
+168,move book,unoccupied,0
+169,move book,unoccupied,0
+170,move book,unoccupied,0
+171,move book,unoccupied,0
+172,move book,unoccupied,0
+173,move book,unoccupied,0
+174,move book,unoccupied,0
+175,move book,unoccupied,0
+176,move book,unoccupied,0
+177,move book,unoccupied,0
+178,move book,unoccupied,0
+179,move book,unoccupied,0
+180,move book,unoccupied,0
+181,move book,unoccupied,0
+182,move book,unoccupied,0
+183,move book,unoccupied,0
+184,move book,unoccupied,0
+185,move book,unoccupied,0
+186,move book,unoccupied,0
+187,move book,unoccupied,0
+188,move book,unoccupied,0
+189,move book,unoccupied,0
+190,move book,unoccupied,0
+191,move book,unoccupied,0
+192,move book,unoccupied,0
+193,move book,unoccupied,0
+194,move book,unoccupied,0
+195,move book,unoccupied,0
+196,move book,unoccupied,0
+197,move book,unoccupied,0
+198,move book,unoccupied,0
+199,move book,unoccupied,0
+200,move book,unoccupied,0
+201,move book,unoccupied,0
+202,move book,unoccupied,0
+203,move book,unoccupied,0
+204,move book,unoccupied,0
+205,move book,unoccupied,0
+206,move book,unoccupied,0
+207,move book,unoccupied,0
+208,move book,unoccupied,0
+209,move book,unoccupied,0
+210,move book,unoccupied,0
+211,move book,unoccupied,0
+212,move book,unoccupied,0
+213,move book,unoccupied,0
+214,move book,unoccupied,0
+215,move book,unoccupied,0
+216,move book,unoccupied,0
+217,move book,unoccupied,0
+218,move book,unoccupied,0
+219,move book,unoccupied,0
+220,move book,unoccupied,0
+221,move book,unoccupied,0
+222,move book,unoccupied,0
+223,move book,unoccupied,0
+224,move book,unoccupied,0
+225,move book,unoccupied,0
+226,move book,unoccupied,0
+227,move book,unoccupied,0
+228,move book,unoccupied,0
+229,move book,unoccupied,0
+230,move book,unoccupied,0
+231,move book,unoccupied,0
+232,move book,unoccupied,0
+233,move book,unoccupied,0
+234,move book,unoccupied,0
+235,move book,unoccupied,0
+236,move book,unoccupied,0
+237,move book,unoccupied,0
+238,move book,unoccupied,0
+239,move book,unoccupied,0
+240,move book,unoccupied,0
+241,move book,unoccupied,0
+242,move book,unoccupied,0
+243,move book,unoccupied,0
+244,move book,unoccupied,0
+245,move hand,unoccupied,N/A
+246,move hand,unoccupied,N/A
+247,move hand,unoccupied,N/A
+248,move hand,unoccupied,N/A
+249,move hand,unoccupied,N/A
+250,move hand,unoccupied,N/A
+251,move hand,unoccupied,N/A
+252,move hand,unoccupied,N/A
+253,move hand,unoccupied,N/A
+254,move hand,unoccupied,N/A
+255,move hand,unoccupied,N/A
+256,move hand,unoccupied,N/A
+257,move hand,unoccupied,N/A
+258,move hand,unoccupied,N/A
+259,move hand,unoccupied,N/A
+260,move hand,unoccupied,N/A
+261,move hand,unoccupied,N/A
+262,move hand,unoccupied,N/A
+263,move hand,unoccupied,N/A
+264,move hand,unoccupied,N/A
+265,move hand,unoccupied,N/A
+266,move hand,unoccupied,N/A
+267,move hand,unoccupied,N/A
+268,move hand,unoccupied,N/A
+269,move hand,unoccupied,N/A
+270,move hand,unoccupied,N/A
+271,move hand,unoccupied,N/A
+272,move hand,unoccupied,N/A
+273,move hand,unoccupied,N/A
+274,move hand,unoccupied,N/A
+275,move hand,unoccupied,N/A
+276,move hand,unoccupied,N/A
+277,move hand,unoccupied,N/A
+278,move hand,unoccupied,N/A
+279,move hand,unoccupied,N/A
+280,move hand,unoccupied,N/A
+281,move hand,unoccupied,N/A
+282,move hand,unoccupied,N/A
+283,move hand,unoccupied,N/A
+284,move hand,unoccupied,N/A
+285,move hand,unoccupied,N/A
+286,move hand,unoccupied,N/A
+287,move hand,unoccupied,N/A
+288,move hand,unoccupied,N/A
+289,move hand,unoccupied,N/A
+290,move hand,unoccupied,N/A
+291,move hand,unoccupied,N/A
+292,move hand,unoccupied,N/A
+293,move hand,unoccupied,N/A
+294,move hand,unoccupied,N/A
+295,move hand,unoccupied,N/A
+296,move hand,unoccupied,N/A
+297,move hand,unoccupied,N/A
+298,move hand,unoccupied,N/A
+299,move hand,unoccupied,N/A
+300,move hand,unoccupied,N/A
+301,move hand,unoccupied,N/A
+302,move hand,unoccupied,N/A
+303,move hand,unoccupied,N/A
+304,move hand,unoccupied,N/A
+305,move hand,unoccupied,N/A
+306,move hand,unoccupied,N/A
+307,move hand,unoccupied,N/A
+308,move hand,unoccupied,N/A
+309,move hand,unoccupied,N/A
+310,move hand,unoccupied,N/A
+311,move hand,unoccupied,N/A
+312,move hand,unoccupied,N/A
+313,move hand,unoccupied,N/A
+314,move hand,unoccupied,N/A
+315,move hand,unoccupied,N/A
+316,move hand,unoccupied,N/A
+317,move hand,unoccupied,N/A
+318,move hand,unoccupied,N/A
+319,move hand,unoccupied,N/A
+320,move hand,unoccupied,N/A
+321,move hand,unoccupied,N/A
+322,move hand,unoccupied,N/A
+323,move hand,unoccupied,N/A
+324,move hand,unoccupied,N/A
+325,move cup,unoccupied,1
+326,move cup,unoccupied,1
+327,move cup,unoccupied,1
+328,move cup,unoccupied,1
+329,move cup,unoccupied,1
+330,move cup,unoccupied,1
+331,move cup,unoccupied,1
+332,move cup,unoccupied,1
+333,move cup,unoccupied,1
+334,move cup,unoccupied,1
+335,move cup,unoccupied,1
+336,move cup,unoccupied,1
+337,move cup,unoccupied,1
+338,move cup,unoccupied,1
+339,move cup,unoccupied,1
+340,move cup,unoccupied,1
+341,move cup,unoccupied,1
+342,move cup,unoccupied,1
+343,move cup,unoccupied,1
+344,move cup,unoccupied,1
+345,move cup,unoccupied,1
+346,move cup,unoccupied,1
+347,move cup,unoccupied,1
+348,move cup,unoccupied,1
+349,move cup,unoccupied,1
+350,move cup,unoccupied,1
+351,move cup,unoccupied,1
+352,move cup,unoccupied,1
+353,move cup,unoccupied,1
+354,move cup,unoccupied,1
+355,move cup,unoccupied,1
+356,move cup,unoccupied,1
+357,move cup,unoccupied,1
+358,move cup,unoccupied,1
+359,move cup,unoccupied,1
+360,move cup,unoccupied,1
+361,move cup,unoccupied,1
+362,move cup,unoccupied,1
+363,move cup,unoccupied,1
+364,move cup,unoccupied,1
+365,move cup,unoccupied,1
+366,move cup,unoccupied,1
+367,move cup,unoccupied,1
+368,move cup,unoccupied,1
+369,move cup,unoccupied,1
+370,move cup,unoccupied,1
+371,move cup,unoccupied,1
+372,move cup,unoccupied,1
+373,move cup,unoccupied,1
+374,move cup,unoccupied,1
+375,move cup,unoccupied,1
+376,move cup,unoccupied,1
+377,move cup,unoccupied,1
+378,move cup,unoccupied,1
+379,move cup,unoccupied,1
+380,move cup,unoccupied,1
+381,move cup,unoccupied,1
+382,move cup,unoccupied,1
+383,move cup,unoccupied,1
+384,move cup,unoccupied,1
+385,move cup,unoccupied,1
+386,move cup,unoccupied,1
+387,move cup,unoccupied,1
+388,move cup,unoccupied,1
+389,move cup,unoccupied,1
+390,move hand,unoccupied,N/A
+391,move hand,unoccupied,N/A
+392,move hand,unoccupied,N/A
+393,move hand,unoccupied,N/A
+394,move hand,unoccupied,N/A
+395,move hand,unoccupied,N/A
+396,move hand,unoccupied,N/A
+397,move hand,unoccupied,N/A
+398,move hand,unoccupied,N/A
+399,move hand,unoccupied,N/A
+400,move hand,unoccupied,N/A
+401,move hand,unoccupied,N/A
+402,move hand,unoccupied,N/A
+403,move hand,unoccupied,N/A
+404,move hand,unoccupied,N/A
+405,move hand,unoccupied,N/A
+406,move hand,unoccupied,N/A
+407,move hand,unoccupied,N/A
+408,move hand,unoccupied,N/A
+409,move hand,unoccupied,N/A
+410,move hand,unoccupied,N/A
+411,move hand,unoccupied,N/A
+412,move hand,unoccupied,N/A
+413,move hand,unoccupied,N/A
+414,move hand,unoccupied,N/A
+415,move hand,unoccupied,N/A
+416,move hand,unoccupied,N/A
+417,move hand,unoccupied,N/A
+418,move hand,unoccupied,N/A
+419,move hand,unoccupied,N/A
+420,move hand,unoccupied,N/A
+421,move hand,unoccupied,N/A
+422,move hand,unoccupied,N/A
+423,move hand,unoccupied,N/A
+424,move hand,unoccupied,N/A
+425,move hand,unoccupied,N/A
+426,move hand,unoccupied,N/A
+427,move hand,unoccupied,N/A
+428,move hand,unoccupied,N/A
+429,move hand,unoccupied,N/A
+430,move hand,unoccupied,N/A
+431,move hand,unoccupied,N/A
+432,move hand,unoccupied,N/A
+433,move hand,unoccupied,N/A
+434,move hand,unoccupied,N/A
+435,move hand,unoccupied,N/A
+436,move hand,unoccupied,N/A
+437,move hand,unoccupied,N/A
+438,move hand,unoccupied,N/A
+439,move hand,unoccupied,N/A
+440,move hand,unoccupied,N/A
+441,move hand,unoccupied,N/A
+442,move hand,unoccupied,N/A
+443,move hand,unoccupied,N/A
+444,move hand,unoccupied,N/A
+445,move hand,unoccupied,N/A
+446,move hand,unoccupied,N/A
+447,move hand,unoccupied,N/A
+448,move hand,unoccupied,N/A
+449,move hand,unoccupied,N/A
+450,move hand,unoccupied,N/A
+451,move hand,unoccupied,N/A
+452,move hand,unoccupied,N/A
+453,move hand,unoccupied,N/A
+454,move hand,unoccupied,N/A
+455,move laptop,unoccupied,0
+456,move laptop,unoccupied,0
+457,move laptop,unoccupied,0
+458,move laptop,unoccupied,0
+459,move laptop,unoccupied,0
+460,move laptop,unoccupied,0
+461,move laptop,unoccupied,0
+462,move laptop,unoccupied,0
+463,move laptop,unoccupied,0
+464,move laptop,unoccupied,0
+465,move laptop,unoccupied,0
+466,move laptop,unoccupied,0
+467,move laptop,unoccupied,0
+468,move laptop,unoccupied,0
+469,move laptop,unoccupied,0
+470,move laptop,unoccupied,0
+471,move laptop,unoccupied,0
+472,move laptop,unoccupied,0
+473,move laptop,unoccupied,0
+474,move laptop,unoccupied,0
+475,move laptop,unoccupied,0
+476,move laptop,unoccupied,0
+477,move laptop,unoccupied,0
+478,move laptop,unoccupied,0
+479,move laptop,unoccupied,0
+480,move laptop,unoccupied,0
+481,move laptop,unoccupied,0
+482,move laptop,unoccupied,0
+483,move laptop,unoccupied,0
+484,move laptop,unoccupied,0
+485,move laptop,unoccupied,0
+486,move laptop,unoccupied,0
+487,move laptop,unoccupied,0
+488,move laptop,unoccupied,0
+489,move laptop,unoccupied,0
+490,move laptop,unoccupied,0
+491,move laptop,unoccupied,0
+492,move laptop,unoccupied,0
+493,move laptop,unoccupied,0
+494,move laptop,unoccupied,0
+495,move laptop,unoccupied,0
+496,move laptop,unoccupied,0
+497,move laptop,unoccupied,0
+498,move laptop,unoccupied,0
+499,move laptop,unoccupied,0
+500,move laptop,unoccupied,0
+501,move laptop,unoccupied,0
+502,move laptop,unoccupied,0
+503,move laptop,unoccupied,0
+504,move laptop,unoccupied,0
+505,move laptop,unoccupied,0
+506,move laptop,unoccupied,0
+507,move laptop,unoccupied,0
+508,move laptop,unoccupied,0
+509,move laptop,unoccupied,0
+510,move laptop,unoccupied,0
+511,move laptop,unoccupied,0
+512,move laptop,unoccupied,0
+513,move laptop,unoccupied,0
+514,move laptop,unoccupied,0
+515,move laptop,unoccupied,0
+516,move laptop,unoccupied,0
+517,move laptop,unoccupied,0
+518,move laptop,unoccupied,0
+519,move laptop,unoccupied,0
+520,move laptop,unoccupied,0
+521,move laptop,unoccupied,0
+522,move laptop,unoccupied,0
+523,move laptop,unoccupied,0
+524,move laptop,unoccupied,0
+525,move laptop,unoccupied,0
+526,move laptop,unoccupied,0
+527,move laptop,unoccupied,0
+528,move laptop,unoccupied,0
+529,move laptop,unoccupied,0
+530,move laptop,unoccupied,0
+531,move laptop,unoccupied,0
+532,move laptop,unoccupied,0
+533,move laptop,unoccupied,0
+534,move laptop,unoccupied,0
+535,move laptop,unoccupied,0
+536,move laptop,unoccupied,0
+537,move laptop,unoccupied,0
+538,move laptop,unoccupied,0
+539,move laptop,unoccupied,0
+540,move laptop,unoccupied,0
+541,move laptop,unoccupied,0
+542,move laptop,unoccupied,0
+543,move laptop,unoccupied,0
+544,move laptop,unoccupied,0
+545,move laptop,unoccupied,0
+546,move laptop,unoccupied,0
+547,move laptop,unoccupied,0
+548,move laptop,unoccupied,0
+549,move laptop,unoccupied,0
+550,move laptop,unoccupied,0
+551,move laptop,unoccupied,0
+552,move laptop,unoccupied,0
+553,move laptop,unoccupied,0
+554,move laptop,unoccupied,0
+555,move laptop,unoccupied,0
+556,move laptop,unoccupied,0
+557,move laptop,unoccupied,0
+558,move laptop,unoccupied,0
+559,move laptop,unoccupied,0
+560,move laptop,unoccupied,0
+561,move laptop,unoccupied,0
+562,move laptop,unoccupied,0
+563,move laptop,unoccupied,0
+564,move laptop,unoccupied,0
+565,move laptop,unoccupied,0
+566,move laptop,unoccupied,0
+567,move laptop,unoccupied,0
+568,move laptop,unoccupied,0
+569,move laptop,unoccupied,0
+570,move laptop,unoccupied,0
+571,move laptop,unoccupied,0
+572,move laptop,unoccupied,0
+573,move laptop,unoccupied,0
+574,move laptop,unoccupied,0
+575,move laptop,unoccupied,0
+576,move laptop,unoccupied,0
+577,move laptop,unoccupied,0
+578,move laptop,unoccupied,0
+579,move laptop,unoccupied,0
+580,move laptop,unoccupied,0
+581,move laptop,unoccupied,0
+582,move laptop,unoccupied,0
+583,move laptop,unoccupied,0
+584,move laptop,unoccupied,0
+585,move laptop,unoccupied,0
+586,move laptop,unoccupied,0
+587,move laptop,unoccupied,0
+588,move laptop,unoccupied,0
+589,move laptop,unoccupied,0
+590,open laptop,unoccupied,0
+591,open laptop,unoccupied,0
+592,open laptop,unoccupied,0
+593,open laptop,unoccupied,0
+594,open laptop,unoccupied,0
+595,open laptop,unoccupied,0
+596,open laptop,unoccupied,0
+597,open laptop,unoccupied,0
+598,open laptop,unoccupied,0
+599,open laptop,unoccupied,0
+600,open laptop,unoccupied,0
+601,open laptop,unoccupied,0
+602,open laptop,unoccupied,0
+603,open laptop,unoccupied,0
+604,open laptop,unoccupied,0
+605,open laptop,unoccupied,0
+606,open laptop,unoccupied,0
+607,open laptop,unoccupied,0
+608,open laptop,unoccupied,0
+609,open laptop,unoccupied,0
+610,open laptop,unoccupied,0
+611,open laptop,unoccupied,0
+612,open laptop,unoccupied,0
+613,open laptop,unoccupied,0
+614,open laptop,unoccupied,0
+615,open laptop,unoccupied,0
+616,open laptop,unoccupied,0
+617,open laptop,unoccupied,0
+618,open laptop,unoccupied,0
+619,open laptop,unoccupied,0
+620,open laptop,unoccupied,0
+621,open laptop,unoccupied,0
+622,open laptop,unoccupied,0
+623,open laptop,unoccupied,0
+624,open laptop,unoccupied,0
+625,open laptop,unoccupied,0
+626,open laptop,unoccupied,0
+627,open laptop,unoccupied,0
+628,open laptop,unoccupied,0
+629,open laptop,unoccupied,0
+630,open laptop,unoccupied,0
+631,open laptop,unoccupied,0
+632,open laptop,unoccupied,0
+633,open laptop,unoccupied,0
+634,open laptop,unoccupied,0
+635,open laptop,unoccupied,0
+636,open laptop,unoccupied,0
+637,open laptop,unoccupied,0
+638,open laptop,unoccupied,0
+639,open laptop,unoccupied,0
+640,open laptop,unoccupied,0
+641,open laptop,unoccupied,0
+642,open laptop,unoccupied,0
+643,open laptop,unoccupied,0
+644,open laptop,unoccupied,0
+645,open laptop,unoccupied,0
+646,open laptop,unoccupied,0
+647,open laptop,unoccupied,0
+648,open laptop,unoccupied,0
+649,open laptop,unoccupied,0
+650,open laptop,unoccupied,0
+651,open laptop,unoccupied,0
+652,open laptop,unoccupied,0
+653,open laptop,unoccupied,0
+654,open laptop,unoccupied,0
+655,open laptop,unoccupied,0
+656,open laptop,unoccupied,0
+657,open laptop,unoccupied,0
+658,open laptop,unoccupied,0
+659,open laptop,unoccupied,0
+660,open laptop,unoccupied,0
+661,open laptop,unoccupied,0
+662,open laptop,unoccupied,0
+663,open laptop,unoccupied,0
+664,open laptop,unoccupied,0
+665,open laptop,unoccupied,1
+666,open laptop,unoccupied,1
+667,open laptop,unoccupied,1
+668,open laptop,unoccupied,1
+669,open laptop,unoccupied,1
+670,open laptop,unoccupied,1
+671,open laptop,unoccupied,1
+672,open laptop,unoccupied,1
+673,open laptop,unoccupied,1
+674,open laptop,unoccupied,1
+675,open laptop,unoccupied,1
+676,open laptop,unoccupied,1
+677,open laptop,unoccupied,1
+678,open laptop,unoccupied,1
+679,open laptop,unoccupied,1
+680,open laptop,unoccupied,1
+681,open laptop,unoccupied,1
+682,open laptop,unoccupied,1
+683,open laptop,unoccupied,1
+684,open laptop,unoccupied,1
+685,open laptop,unoccupied,1
+686,open laptop,unoccupied,1
+687,open laptop,unoccupied,1
+688,open laptop,unoccupied,1
+689,open laptop,unoccupied,1
+690,open laptop,unoccupied,1
+691,open laptop,unoccupied,1
+692,open laptop,unoccupied,1
+693,open laptop,unoccupied,1
+694,open laptop,unoccupied,1
+695,open laptop,unoccupied,1
+696,open laptop,unoccupied,1
+697,open laptop,unoccupied,1
+698,open laptop,unoccupied,1
+699,open laptop,unoccupied,1
+700,open laptop,unoccupied,1
+701,open laptop,unoccupied,1
+702,open laptop,unoccupied,1
+703,open laptop,unoccupied,1
+704,open laptop,unoccupied,1
+705,open laptop,unoccupied,1
+706,open laptop,unoccupied,1
+707,open laptop,unoccupied,1
+708,open laptop,unoccupied,1
+709,open laptop,unoccupied,1
+710,open laptop,unoccupied,1
+711,open laptop,unoccupied,1
+712,open laptop,unoccupied,1
+713,open laptop,unoccupied,1
+714,open laptop,unoccupied,1
+715,open laptop,unoccupied,1
+716,open laptop,unoccupied,1
+717,open laptop,unoccupied,1
+718,open laptop,unoccupied,1
+719,open laptop,unoccupied,1
+720,open laptop,unoccupied,1
+721,open laptop,unoccupied,1
+722,open laptop,unoccupied,1
+723,open laptop,unoccupied,1
+724,open laptop,unoccupied,1
+725,open laptop,unoccupied,1
+726,open laptop,unoccupied,1
+727,open laptop,unoccupied,1
+728,open laptop,unoccupied,1
+729,open laptop,unoccupied,1
+730,open laptop,unoccupied,1
+731,open laptop,unoccupied,1
+732,open laptop,unoccupied,1
+733,open laptop,unoccupied,1
+734,open laptop,unoccupied,1
+735,open laptop,unoccupied,1
+736,open laptop,unoccupied,1
+737,open laptop,unoccupied,1
+738,open laptop,unoccupied,1
+739,open laptop,unoccupied,1
+740,open laptop,unoccupied,1
+741,open laptop,unoccupied,1
+742,open laptop,unoccupied,1
+743,open laptop,unoccupied,1
+744,open laptop,unoccupied,1
+745,move hand,unoccupied,N/A
+746,move hand,unoccupied,N/A
+747,move hand,unoccupied,N/A
+748,move hand,unoccupied,N/A
+749,move hand,unoccupied,N/A
+750,move hand,unoccupied,N/A
+751,move hand,unoccupied,N/A
+752,move hand,unoccupied,N/A
+753,move hand,unoccupied,N/A
+754,move hand,unoccupied,N/A
+755,move hand,unoccupied,N/A
+756,move hand,unoccupied,N/A
+757,move hand,unoccupied,N/A
+758,move hand,unoccupied,N/A
+759,move hand,unoccupied,N/A
+760,move hand,unoccupied,N/A
+761,move hand,unoccupied,N/A
+762,move hand,unoccupied,N/A
+763,move hand,unoccupied,N/A
+764,move hand,unoccupied,N/A
+765,move hand,unoccupied,N/A
+766,move hand,unoccupied,N/A
+767,move hand,unoccupied,N/A
+768,move hand,unoccupied,N/A
+769,move hand,unoccupied,N/A
+770,move hand,unoccupied,N/A
+771,move hand,unoccupied,N/A
+772,move hand,unoccupied,N/A
+773,move hand,unoccupied,N/A
+774,move hand,unoccupied,N/A
+775,move hand,unoccupied,N/A
+776,move hand,unoccupied,N/A
+777,move hand,unoccupied,N/A
+778,move hand,unoccupied,N/A
+779,move hand,unoccupied,N/A
+780,move hand,unoccupied,N/A
+781,move hand,unoccupied,N/A
+782,move hand,unoccupied,N/A
+783,move hand,unoccupied,N/A
+784,move hand,unoccupied,N/A
+785,move hand,unoccupied,N/A
+786,move hand,unoccupied,N/A
+787,move hand,unoccupied,N/A
+788,move hand,unoccupied,N/A
+789,move hand,unoccupied,N/A
+790,move hand,unoccupied,N/A
+791,move hand,unoccupied,N/A
+792,move hand,unoccupied,N/A
+793,move hand,unoccupied,N/A
+794,move hand,unoccupied,N/A
+795,idle,unoccupied,N/A
+796,idle,unoccupied,N/A
+797,idle,unoccupied,N/A
+798,idle,unoccupied,N/A
+799,idle,unoccupied,N/A
+800,idle,unoccupied,N/A
+801,idle,unoccupied,N/A
+802,idle,unoccupied,N/A
+803,idle,unoccupied,N/A
+804,idle,unoccupied,N/A
+805,idle,unoccupied,N/A
+806,idle,unoccupied,N/A
+807,idle,unoccupied,N/A
+808,idle,unoccupied,N/A
+809,idle,unoccupied,N/A
+810,idle,unoccupied,N/A
+811,idle,unoccupied,N/A
+812,idle,unoccupied,N/A
+813,idle,unoccupied,N/A
+814,idle,unoccupied,N/A
+815,idle,unoccupied,N/A
+816,idle,unoccupied,N/A
+817,idle,unoccupied,N/A
+818,idle,unoccupied,N/A
+819,idle,unoccupied,N/A
+820,idle,unoccupied,N/A
+821,idle,unoccupied,N/A
+822,idle,unoccupied,N/A
+823,idle,unoccupied,N/A
+824,idle,unoccupied,N/A
+825,idle,unoccupied,N/A
+826,idle,unoccupied,N/A
+827,idle,unoccupied,N/A
+828,idle,unoccupied,N/A
+829,idle,unoccupied,N/A
+830,idle,unoccupied,N/A
+831,idle,unoccupied,N/A
+832,idle,unoccupied,N/A
+833,idle,unoccupied,N/A
+834,idle,unoccupied,N/A
+835,idle,unoccupied,N/A
+836,idle,unoccupied,N/A
+837,idle,unoccupied,N/A
+838,idle,unoccupied,N/A
+839,idle,unoccupied,N/A
+840,idle,unoccupied,N/A
+841,idle,unoccupied,N/A
+842,idle,unoccupied,N/A
+843,idle,unoccupied,N/A
+844,idle,unoccupied,N/A
+845,idle,unoccupied,N/A
+846,idle,unoccupied,N/A
+847,idle,unoccupied,N/A
+848,idle,unoccupied,N/A
+849,idle,unoccupied,N/A
+850,idle,unoccupied,N/A
+851,idle,unoccupied,N/A
+852,idle,unoccupied,N/A
+853,idle,unoccupied,N/A
+854,idle,unoccupied,N/A
+855,idle,unoccupied,N/A
+856,idle,unoccupied,N/A
+857,idle,unoccupied,N/A
+858,idle,unoccupied,N/A
+859,idle,unoccupied,N/A
+860,idle,unoccupied,N/A
+861,idle,unoccupied,N/A
+862,idle,unoccupied,N/A
+863,idle,unoccupied,N/A
+864,idle,unoccupied,N/A
+865,idle,unoccupied,N/A
+866,idle,unoccupied,N/A
+867,idle,unoccupied,N/A
+868,idle,unoccupied,N/A
+869,idle,unoccupied,N/A
+870,idle,unoccupied,N/A
+871,idle,unoccupied,N/A
+872,idle,unoccupied,N/A
+873,idle,unoccupied,N/A
+874,idle,unoccupied,N/A
+875,idle,unoccupied,N/A
+876,idle,unoccupied,N/A
+877,idle,unoccupied,N/A
+878,idle,unoccupied,N/A
+879,idle,unoccupied,N/A
+880,idle,unoccupied,N/A
+881,idle,unoccupied,N/A
+882,idle,unoccupied,N/A
+883,idle,unoccupied,N/A
+884,idle,unoccupied,N/A
+885,idle,unoccupied,N/A
+886,idle,unoccupied,N/A
+887,idle,unoccupied,N/A
+888,idle,unoccupied,N/A
+889,idle,unoccupied,N/A
+890,idle,unoccupied,N/A
+891,idle,unoccupied,N/A
+892,idle,unoccupied,N/A
+893,idle,unoccupied,N/A
+894,idle,unoccupied,N/A
+895,move hand,unoccupied,N/A
+896,move hand,unoccupied,N/A
+897,move hand,unoccupied,N/A
+898,move hand,unoccupied,N/A
+899,move hand,unoccupied,N/A
+900,move hand,unoccupied,N/A
+901,move hand,unoccupied,N/A
+902,move hand,unoccupied,N/A
+903,move hand,unoccupied,N/A
+904,move hand,unoccupied,N/A
+905,move hand,unoccupied,N/A
+906,move hand,unoccupied,N/A
+907,move hand,unoccupied,N/A
+908,move hand,unoccupied,N/A
+909,move hand,unoccupied,N/A
+910,move hand,unoccupied,N/A
+911,move hand,unoccupied,N/A
+912,move hand,unoccupied,N/A
+913,move hand,unoccupied,N/A
+914,move hand,unoccupied,N/A
+915,move hand,unoccupied,N/A
+916,move hand,unoccupied,N/A
+917,move hand,unoccupied,N/A
+918,move hand,unoccupied,N/A
+919,move hand,unoccupied,N/A
+920,move hand,unoccupied,N/A
+921,move hand,unoccupied,N/A
+922,move hand,unoccupied,N/A
+923,move hand,unoccupied,N/A
+924,move hand,unoccupied,N/A
+925,move hand,unoccupied,N/A
+926,move hand,unoccupied,N/A
+927,move hand,unoccupied,N/A
+928,move hand,unoccupied,N/A
+929,move hand,unoccupied,N/A
+930,move hand,unoccupied,N/A
+931,move hand,unoccupied,N/A
+932,move hand,unoccupied,N/A
+933,move hand,unoccupied,N/A
+934,move hand,unoccupied,N/A
+935,move hand,unoccupied,N/A
+936,move hand,unoccupied,N/A
+937,move hand,unoccupied,N/A
+938,move hand,unoccupied,N/A
+939,move hand,unoccupied,N/A
+940,move cup,unoccupied,1
+941,move cup,unoccupied,1
+942,move cup,unoccupied,1
+943,move cup,unoccupied,1
+944,move cup,unoccupied,1
+945,move cup,unoccupied,1
+946,move cup,unoccupied,1
+947,move cup,unoccupied,1
+948,move cup,unoccupied,1
+949,move cup,unoccupied,1
+950,move cup,unoccupied,1
+951,move cup,unoccupied,1
+952,move cup,unoccupied,1
+953,move cup,unoccupied,1
+954,move cup,unoccupied,1
+955,move cup,unoccupied,1
+956,move cup,unoccupied,1
+957,move cup,unoccupied,1
+958,move cup,unoccupied,1
+959,move cup,unoccupied,1
+960,move cup,unoccupied,1
+961,move cup,unoccupied,1
+962,move cup,unoccupied,1
+963,move cup,unoccupied,1
+964,move cup,unoccupied,1
+965,move cup,unoccupied,1
+966,move cup,unoccupied,1
+967,move cup,unoccupied,1
+968,move cup,unoccupied,1
+969,move cup,unoccupied,1
+970,move cup,unoccupied,1
+971,move cup,unoccupied,1
+972,move cup,unoccupied,1
+973,move cup,unoccupied,1
+974,move cup,unoccupied,1
+975,move cup,unoccupied,1
+976,move cup,unoccupied,1
+977,move cup,unoccupied,1
+978,move cup,unoccupied,1
+979,move cup,unoccupied,1
+980,move cup,unoccupied,1
+981,move cup,unoccupied,1
+982,move cup,unoccupied,1
+983,move cup,unoccupied,1
+984,move cup,unoccupied,1
+985,move cup,unoccupied,1
+986,move cup,unoccupied,1
+987,move cup,unoccupied,1
+988,move cup,unoccupied,1
+989,move cup,unoccupied,1
+990,move cup,unoccupied,1
+991,move cup,unoccupied,1
+992,move cup,unoccupied,1
+993,move cup,unoccupied,1
+994,move cup,unoccupied,1
+995,move cup,unoccupied,1
+996,move cup,unoccupied,1
+997,move cup,unoccupied,1
+998,move cup,unoccupied,1
+999,move cup,unoccupied,1
+1000,idle,unoccupied,1
+1001,idle,unoccupied,1
+1002,idle,unoccupied,1
+1003,idle,unoccupied,1
+1004,idle,unoccupied,1
+1005,idle,unoccupied,1
+1006,idle,unoccupied,1
+1007,idle,unoccupied,1
+1008,idle,unoccupied,1
+1009,idle,unoccupied,1
+1010,idle,unoccupied,1
+1011,idle,unoccupied,1
+1012,idle,unoccupied,1
+1013,idle,unoccupied,1
+1014,idle,unoccupied,1
+1015,idle,unoccupied,1
+1016,idle,unoccupied,1
+1017,idle,unoccupied,1
+1018,idle,unoccupied,1
+1019,idle,unoccupied,1
+1020,idle,unoccupied,1
+1021,idle,unoccupied,1
+1022,idle,unoccupied,1
+1023,idle,unoccupied,1
+1024,idle,unoccupied,1
+1025,idle,unoccupied,1
+1026,idle,unoccupied,1
+1027,idle,unoccupied,1
+1028,idle,unoccupied,1
+1029,idle,unoccupied,1
+1030,idle,unoccupied,1
+1031,idle,unoccupied,1
+1032,idle,unoccupied,1
+1033,idle,unoccupied,1
+1034,idle,unoccupied,1
+1035,idle,unoccupied,1
+1036,idle,unoccupied,1
+1037,idle,unoccupied,1
+1038,idle,unoccupied,1
+1039,idle,unoccupied,1
+1040,idle,unoccupied,1
+1041,idle,unoccupied,1
+1042,idle,unoccupied,1
+1043,idle,unoccupied,1
+1044,idle,unoccupied,1
+1045,idle,unoccupied,1
+1046,idle,unoccupied,1
+1047,idle,unoccupied,1
+1048,idle,unoccupied,1
+1049,idle,unoccupied,1
+1050,idle,unoccupied,1
+1051,idle,unoccupied,1
+1052,idle,unoccupied,1
+1053,idle,unoccupied,1
+1054,idle,unoccupied,1
+1055,idle,unoccupied,1
+1056,idle,unoccupied,1
+1057,idle,unoccupied,1
+1058,idle,unoccupied,1
+1059,idle,unoccupied,1
+1060,idle,unoccupied,1
+1061,idle,unoccupied,1
+1062,idle,unoccupied,1
+1063,idle,unoccupied,1
+1064,idle,unoccupied,1
+1065,idle,unoccupied,1
+1066,idle,unoccupied,1
+1067,idle,unoccupied,1
+1068,idle,unoccupied,1
+1069,idle,unoccupied,1
+1070,move hand,unoccupied,N/A
+1071,move hand,unoccupied,N/A
+1072,move hand,unoccupied,N/A
+1073,move hand,unoccupied,N/A
+1074,move hand,unoccupied,N/A
+1075,move hand,unoccupied,N/A
+1076,move hand,unoccupied,N/A
+1077,move hand,unoccupied,N/A
+1078,move hand,unoccupied,N/A
+1079,move hand,unoccupied,N/A
+1080,move hand,unoccupied,N/A
+1081,move hand,unoccupied,N/A
+1082,move hand,unoccupied,N/A
+1083,move hand,unoccupied,N/A
+1084,move hand,unoccupied,N/A
+1085,move hand,unoccupied,N/A
+1086,move hand,unoccupied,N/A
+1087,move hand,unoccupied,N/A
+1088,move hand,unoccupied,N/A
+1089,move hand,unoccupied,N/A
