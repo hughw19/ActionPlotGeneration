@@ -1,0 +1,38 @@
+(S'idle'
+p1
+S'move hand'
+p2
+S'read book'
+p3
+S'move book'
+p4
+S'move cup'
+p5
+S'open book'
+p6
+S'pour bottle cup'
+p7
+S'move laptop'
+p8
+S'move-in orange bowl'
+p9
+S'close book'
+p10
+S'open laptop'
+p11
+S'move bottle'
+p12
+S'move bowl'
+p13
+S'move-out orange bowl'
+p14
+S'close laptop'
+p15
+S'move phone'
+p16
+S'turn-on phone'
+p17
+S'turn-off phone'
+p18
+tp19
+.

@@ -1,6 +1,6 @@
 import tensorflow as tf
-import os,string
-from utils_cup_multivideos import *
+import os
+from utils import *
 import numpy as np
 import tflearn
 
@@ -64,7 +64,7 @@ class Model():
             self.rnn_output = tf.reshape(flat_outputs, [args.batch_size, args.seq_length, args.rnn_size])
         
         with tf.variable_scope('fc_output'):
-            final_size = time_embedding_size + ho_embedding_size + args.rnn_size
+            final_size = int(time_embedding_size + ho_embedding_size + args.rnn_size)
             concat = tf.concat([self.rnn_output, self.ho_data, self.time_data], axis=2)
             concat = tf.reshape(concat, [-1, final_size])
             #concat = tflearn.fully_connected(concat, final_size, activation='linear')
@@ -139,8 +139,8 @@ class Model():
         mask = np.ones(vocab_aho_size, np.float32)
         for i in range(vocab_aho_size):
             aho_label = chars_aho[i]
-            act_label = string.split(aho_label,';')[0].strip()
-            obj_names = string.split(act_label, ' ')[1:]
+            act_label = aho_label.split(';')[0].strip()
+            obj_names = act_label.split(' ')[1:]
             if not set(obj_names).issubset(set(obj_list)):
                 mask[i] = 0
         
@@ -162,9 +162,9 @@ class Model():
             # save to event_seq
             aho = prime_tensor[i,2]
             aho_label = chars_aho[int(aho)]
-            act_label  = string.split(aho_label,';')[0].strip()
-            hand_label = string.split(aho_label,';')[1].strip()
-            obj_label  = string.split(aho_label,';')[2].strip()
+            act_label  = aho_label.split(';')[0].strip()
+            hand_label = aho_label.split(';')[1].strip()
+            obj_label  = aho_label.split(';')[2].strip()
             elapsed    = prime_tensor[i,5]
             total_time += elapsed
             
@@ -179,9 +179,9 @@ class Model():
         time[0, 0]  = last[5]
         aho = last[2]
         aho_label = chars_aho[int(aho)]
-        act_label  = string.split(aho_label,';')[0].strip()
-        hand_label = string.split(aho_label,';')[1].strip()
-        obj_label  = string.split(aho_label,';')[2].strip()
+        act_label  = aho_label.split(';')[0].strip()
+        hand_label = aho_label.split(';')[1].strip()
+        obj_label  = aho_label.split(';')[2].strip()
         elapsed    = last[5]
         total_time += elapsed
         new_event = [act_label, hand_label, obj_label, elapsed]
@@ -213,9 +213,9 @@ class Model():
             # update label sequence
             sample = int(sample)
             aho_label  = chars_aho[sample]
-            act_label  = string.split(aho_label,';')[0].strip()
-            hand_label = string.split(aho_label,';')[1].strip()
-            obj_label  = string.split(aho_label,';')[2].strip()
+            act_label  = aho_label.split(';')[0].strip()
+            hand_label = aho_label.split(';')[1].strip()
+            obj_label  = aho_label.split(';')[2].strip()
             
             # use the sampled aho to get elapsed time
             elapsed = elapsed_times[0][sample]            

@@ -1,0 +1,68 @@
+(S'move hand;unoccupied;N/A'
+p1
+S'idle;unoccupied;N/A'
+p2
+S'idle;unoccupied;1'
+p3
+S'read book;unoccupied;1'
+p4
+S'move book;unoccupied;0'
+p5
+S'move cup;unoccupied;1'
+p6
+S'move laptop;unoccupied;0'
+p7
+S'open book;unoccupied;0'
+p8
+S'pour bottle cup;unoccupied;1'
+p9
+S'pour bottle cup;unoccupied;0'
+p10
+S'open book;unoccupied;1'
+p11
+S'move bottle;unoccupied;0'
+p12
+S'move-in orange bowl;unoccupied;0'
+p13
+S'move cup;unoccupied;0'
+p14
+S'close book;unoccupied;1'
+p15
+S'open laptop;unoccupied;0'
+p16
+S'close book;unoccupied;0'
+p17
+S'open laptop;unoccupied;1'
+p18
+S'move bowl;unoccupied;4'
+p19
+S'move-in orange bowl;unoccupied;1'
+p20
+S'move-out orange bowl;unoccupied;1'
+p21
+S'move phone;unoccupied;0'
+p22
+S'move-out orange bowl;unoccupied;0'
+p23
+S'close laptop;unoccupied;1'
+p24
+S'close laptop;unoccupied;0'
+p25
+S'move bowl;unoccupied;0'
+p26
+S'move bowl;unoccupied;2'
+p27
+S'idle;unoccupied;0'
+p28
+S'move bottle;unoccupied;1'
+p29
+S'turn-on phone;unoccupied;0'
+p30
+S'turn-off phone;unoccupied;1'
+p31
+S'turn-off phone;unoccupied;0'
+p32
+S'turn-on phone;unoccupied;1'
+p33
+tp34
+.

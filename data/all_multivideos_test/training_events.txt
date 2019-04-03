@@ -1,0 +1,12 @@
+old event: action: [move cup]       hand: [unoccupied] 
+new event: action: [move cup]       hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move cup]       hand: [unoccupied] 
+new event: action: [move cup]       hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move cup]       hand: [unoccupied] 
+new event: action: [move cup]       hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.
+old event: action: [move cup]       hand: [unoccupied] 
+new event: action: [move cup]       hand: [unoccupied] 
+#-----------------------# Error: object state can't change in this action.

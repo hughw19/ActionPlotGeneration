@@ -17,7 +17,7 @@ def main():
                        help='how many frames to use for prime')
     parser.add_argument('--sample_length', type=int, default=100,
                        help='number of characters to sample')
-    parser.add_argument('--gpuid', type=int, default=3,
+    parser.add_argument('--gpuid', type=int, default=0,
                        help='which gpu to use')
     parser.add_argument('--sample', type=int, default=1,
                        help='0 to use max at each timestep, 1 to sample at each timestep, 2 to sample on spaces')
@@ -28,11 +28,11 @@ def main():
     
 
     args = parser.parse_args()
-    args.obj_list = string.split(args.obj_list, ' ')
+    args.obj_list = args.obj_list.split(' ')
     sample(args)
 
 def sample(args):
-    foldername = string.split(args.save_dir,'/')[1].strip()
+    foldername = args.save_dir.split('/')[1].strip()
     sample_dir = os.path.join('samples', foldername)
     outputpath = os.path.join(sample_dir, 'output.npy')
     output_txt_dir = os.path.join('outputs', foldername)
