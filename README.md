@@ -16,3 +16,11 @@ The repository includes:
 * tflearn
 * cPickle
 
+# Training
+```
+# Train a new model starting from pre-trained COCO weights
+python3 train.py
+```
+
+# Generation
+
