@@ -18,9 +18,13 @@ The repository includes:
 
 # Training
 ```
-# Train a new model starting from pre-trained COCO weights
+# Train a new Action Plot model from scratch
 python3 train.py
 ```
 
 # Generation
+```
+# Sampling action plots using a checkpoint
+python3 sample.py --save_dir=/ckpts/ckpts_dir --obj_list="book phone bowl bottle cup orange"
+```
 
