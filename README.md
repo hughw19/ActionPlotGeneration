@@ -16,6 +16,10 @@ The repository includes:
 * tflearn
 * cPickle
 
+# Video Dataset
+For those who are interested in the interaction videos, one can download our dataset via https://drive.google.com/open?id=1Ggpxm1kyQ9Lm3itcvFrIGuWhNRml4o28.
+
+
 # Training
 ```
 # Train a new Action Plot model from scratch
@@ -27,4 +31,6 @@ python3 train.py
 # Sampling action plots using a checkpoint
 python3 sample.py --save_dir=/ckpts/ckpts_dir --obj_list="book phone bowl bottle cup orange"
 ```
+
+
 
